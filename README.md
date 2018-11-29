@@ -1,27 +1,20 @@
 # DrawingTool
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
+Please install npm if not already installed on your local machine.
+Navigate to the base of the project directory [...]/drawing-tool where the file `package.json` resides.
 
-## Development server
+Execute the command `npm install` in that directory. All dependencies should download. You can ignore warnings.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `npm start` for a dev server. Navigate to `http://localhost:5200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+You can now upload an input file and then click generate to obtain an output file. The content of the file is also displayed on the webpage.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+The sources are located under the src directory.
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `npm test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+Thanks.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Dominique Berton.

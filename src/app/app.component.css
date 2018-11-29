@@ -1,0 +1,20 @@
+.section {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  color: black;
+  padding: 20px;
+}
+
+.error {
+  color: red;
+}
+
+.drawing {
+  box-sizing: border-box;
+  font-size: 16px;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 4px 6px;
+  width: 100%;
+  min-height: 50vh;
+}
